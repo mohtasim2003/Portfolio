@@ -12,6 +12,8 @@ import gmailLogo from '../../public/gmail.png'
 import whatsappLogo from '../../public/whatsapp.png'
 import instagramLogo from '../../public/insta.png'
 import facebookLogo from '../../public/facebook.png'
+import portfolio from "../../public/Me/portfolio.png";
+
 
 export default function Home() {
   const professions = [
@@ -30,6 +32,8 @@ export default function Home() {
     { img: whatsappLogo, title: 'WhatsApp', link: 'https://wa.me/+8801783753182' },
     { img: instagramLogo, title: 'Instagram', link: 'https://www.instagram.com/sm.rahman404/' },
     { img: facebookLogo, title: 'Facebook', link: 'https://www.facebook.com/smrahman404' },
+    { img: portfolio, title: "Second Portfolio", link: "https://sites.google.com/view/smrahman/home" },
+
   ]
 
   return (
