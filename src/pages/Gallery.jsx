@@ -22,26 +22,26 @@ const IMAGES = {
       id: 1,
       caption:
         "",
-      photos: ["#", "#"],
+      photos: ["", ""],
     },
     
     {
       id: 1,
       caption:
         " - ",
-      photos: ["#", "#","#", "#"],
+      photos: ["", "","", ""],
     },
   ],
   achievements: [
     {
       id: 1,
       caption: " 🏆!",
-      photos: ["#"],
+      photos: [""],
     },
     {
       id: 2,
       caption: " 🤖",
-      photos: ["#"],
+      photos: [""],
     },
   ],
 };
