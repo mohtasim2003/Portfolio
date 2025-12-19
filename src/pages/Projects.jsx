@@ -2,6 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import { Github, ExternalLink } from 'lucide-react'
 
+
 const PROJECTS = [
   {
     title: '🩺 Hospital Management System',
@@ -20,35 +21,35 @@ const PROJECTS = [
   {
     title: 'Crop Recommendation System',
     desc: 'Developed a robust precision agriculture system merging real-time IoT sensing with Machine Learning. It features a unique fail-safe against sensor errors to ensure reliable, accurate crop recommendations for farmers.',
-    ss: '../Public/Me/Introcuction.png',
+    ss: '/Public/Me/Introcuction.png',
     tech: ['IoT Sensors', 'Machine Learning', 'Google Collab', 'Python', 'Firebase', 'OpenWeatherMap API'],
     code: '--'
   },
   {
   title: 'Arduino-Based Autonomous Floor Cleaning Robot',
   desc: 'Designed a cost-effective, autonomous cleaning robot using Arduino. It employs ultrasonic sensors for real-time obstacle avoidance and motorized brushes to clean tiles, wood, and carpet efficiently.',
-  ss: '../Public/Me/cleaner.jpg',
+  ss: '/Public/Me/cleaner.jpg',
   tech: ['Arduino Uno', 'Ultrasonic Sensors', 'C++', 'L298N Motor Driver', 'DC Motors', 'Servo Motor'],
   code: '--'
   },
   {
     title: 'Air-Line Management System',
     desc: 'Developed a comprehensive platform to automate core airline tasks from scheduling to ticketing. This digital solution replaces manual workflows to ensure smooth operational flow and data integrity.',
-    ss: '../Public/Me/air.jpg',
+    ss: '/Public/Me/air.jpg',
     tech: ['C#', 'T-SQL', 'SQL Server'],
     code: 'https://github.com/mohtasim2003/Air-Line-Management-System'
   },
   {
     title: 'Sea Port Simulation (Computer Graphics)',
     desc: 'Created an interactive Sea Port environment using C++ and OpenGL featuring real-time rendering of Day, Night and Rain atmospheric modes.',
-    ss: '../Public/Me/port.jpg',
+    ss: '/Public/Me/port.jpg',
     tech: ['C++', 'OpenGL', 'GLUT'],
     code: 'https://github.com/mohtasim2003/Graphics-Project'
   },
   {
     title: 'University Management System',
     desc: 'A comprehensive technical report detailing the Software Development Life Cycle (SDLC) of a University Management System. This document covers: Requirements Analysis, System Design, Implementation, Testing, Deployment.',
-    ss: '../Public/Me/SDLC.png',
+    ss: '/Public/Me/SDLC.png',
     tech: ['Doccumentation'],
     code: 'https://github.com/mohtasim2003/UNIVERSITY-MANAGEMENT-SYPSTEM-Software-'
   }
