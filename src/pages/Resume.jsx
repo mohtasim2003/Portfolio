@@ -80,11 +80,11 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              Final year Computer Science and Engineering student with strong foundations in 
-              software engineering, web development and programming. Experienced in building
-               full-stack applications using React, Next.js and RESTful APIs. Seeking an 
-               internship or entry-level role to apply academic knowledge to real-world 
-               software systems and contribute to impactful projects.
+              A highly motivated and detail-oriented Computer Science 4th-year student 
+              seeking a Software Engineer position. Skilled in programming, problem-solving 
+              and developing scalable software systems. Committed to continuous learning, 
+              engineering reliable solutions and contributing to impactful, innovation-driven 
+              projects.
             </p>
           </motion.div>
         </motion.div>
@@ -233,7 +233,7 @@ export default function Resume() {
           }}
         >
           <iframe
-            src="/Me/Mohtasim_CV.pdf"
+            src="/Me/CV.pdf"
             title="MOHTASIM UR RAHMAN's CV"
             style={{
               width: "100%",
@@ -246,7 +246,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <motion.a
-          href="/Me/Mohtasim_CV.pdf"
+          href="/Me/CV.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}

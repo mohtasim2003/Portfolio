@@ -21,27 +21,27 @@ const IMAGES = {
     {
       id: 1,
       caption:
-        "",
-      photos: ["", ""],
+        "It’s an AI-powered tool that understands what someone might be feeling based on their words.",
+      photos: ["#", "#"],
     },
     
     {
       id: 1,
       caption:
-        " - ",
-      photos: ["", "","", ""],
+        "📂ProfileX - ",
+      photos: ["#", "#","#", "#"],
     },
   ],
   achievements: [
     {
       id: 1,
       caption: " 🏆!",
-      photos: [""],
+      photos: ["#"],
     },
     {
       id: 2,
       caption: " 🤖",
-      photos: [""],
+      photos: ["#"],
     },
   ],
 };
