@@ -17,9 +17,8 @@ export default function Home() {
   const professions = [
     'Software Engineer',
     'Machine Learning Engineer',
-    "Deep Learning Expert",
     'Iot Researcher',
-    'Developer',
+    'Full Stack Developer',
     '.NET core Developer',
   ]
 
@@ -93,7 +92,7 @@ export default function Home() {
           {/* Typing Animated Text */}
           <p className="typing-effect">
             Software Engineer | Full-Stack Developer | Tech Explorer | AI Enthusiast
-          </p>
+            </p>
 
           {/* Profession Tags */}
           <motion.div className="profession-tags">
