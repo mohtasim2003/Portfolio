@@ -233,7 +233,7 @@ export default function Resume() {
           }}
         >
           <iframe
-            src="/public/Me/Mohtasim_CV.pdf"
+            src="/Me/Mohtasim_CV.pdf"
             title="MOHTASIM UR RAHMAN's CV"
             style={{
               width: "100%",
@@ -246,7 +246,7 @@ export default function Resume() {
 
         {/* Download Button */}
         <motion.a
-          href="/public/Me/Mohtasim_CV.pdf"
+          href="/Me/Mohtasim_CV.pdf"
           download
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
