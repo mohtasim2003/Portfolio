@@ -7,49 +7,49 @@ const PROJECTS = [
   {
     title: '🩺 Hospital Management System',
     desc: 'A comprehensive, role-based healthcare management system built with PHP and MySQL that streamlines medical operations and improves patient care through specialized dashboards for patients, doctors, and administrators.',
-    ss: '/public/Me/HMS.jpg',
+    ss: '/Me/HMS.jpg',
     tech: ['HTML', 'CSS', 'PHP', 'JavaScript', 'MySQL'],
     code: 'https://github.com/mohtasim2003/Hospital-Management-System'
   },
   {
   title: 'Shop Management System',
   desc: 'A Java-based desktop application built using Java and Swing for managing shop operations such as employee management, product tracking, and sales management.',
-  ss: '/Public/Me/Shop.jpg',
+  ss: '/Me/Shop.jpg',
   tech: ['JAVA', 'GUI Framework', 'Swing'],
   code: 'https://github.com/mohtasim2003/Shop-Management-System'
   },
   {
     title: 'Crop Recommendation System',
     desc: 'Developed a robust precision agriculture system merging real-time IoT sensing with Machine Learning. It features a unique fail-safe against sensor errors to ensure reliable, accurate crop recommendations for farmers.',
-    ss: '/Public/Me/Introcuction.png',
+    ss: '/Me/Introcuction.png',
     tech: ['IoT Sensors', 'Machine Learning', 'Google Collab', 'Python', 'Firebase', 'OpenWeatherMap API'],
     code: '--'
   },
   {
   title: 'Arduino-Based Autonomous Floor Cleaning Robot',
   desc: 'Designed a cost-effective, autonomous cleaning robot using Arduino. It employs ultrasonic sensors for real-time obstacle avoidance and motorized brushes to clean tiles, wood, and carpet efficiently.',
-  ss: '/Public/Me/cleaner.jpg',
+  ss: '/Me/cleaner.jpg',
   tech: ['Arduino Uno', 'Ultrasonic Sensors', 'C++', 'L298N Motor Driver', 'DC Motors', 'Servo Motor'],
   code: '--'
   },
   {
     title: 'Air-Line Management System',
     desc: 'Developed a comprehensive platform to automate core airline tasks from scheduling to ticketing. This digital solution replaces manual workflows to ensure smooth operational flow and data integrity.',
-    ss: '/Public/Me/air.jpg',
+    ss: '/Me/air.jpg',
     tech: ['C#', 'T-SQL', 'SQL Server'],
     code: 'https://github.com/mohtasim2003/Air-Line-Management-System'
   },
   {
     title: 'Sea Port Simulation (Computer Graphics)',
     desc: 'Created an interactive Sea Port environment using C++ and OpenGL featuring real-time rendering of Day, Night and Rain atmospheric modes.',
-    ss: '/Public/Me/port.jpg',
+    ss: '/Me/port.jpg',
     tech: ['C++', 'OpenGL', 'GLUT'],
     code: 'https://github.com/mohtasim2003/Graphics-Project'
   },
   {
     title: 'University Management System',
     desc: 'A comprehensive technical report detailing the Software Development Life Cycle (SDLC) of a University Management System. This document covers: Requirements Analysis, System Design, Implementation, Testing, Deployment.',
-    ss: '/Public/Me/SDLC.png',
+    ss: '/Me/SDLC.png',
     tech: ['Doccumentation'],
     code: 'https://github.com/mohtasim2003/UNIVERSITY-MANAGEMENT-SYPSTEM-Software-'
   }
