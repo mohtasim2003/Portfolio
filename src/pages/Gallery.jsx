@@ -41,7 +41,7 @@ const IMAGES = {
     {
       id: 2,
       caption: " 🤖Kishor Kishori Conference-2018",
-      photos: ["/public/Me/Conference.jpg"],
+      photos: ["./public/Me/Conference.jpg"],
     },
   ],
 };
