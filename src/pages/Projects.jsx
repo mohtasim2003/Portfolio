@@ -21,7 +21,7 @@ const PROJECTS = [
   {
     title: 'Crop Recommendation System',
     desc: 'Developed a robust precision agriculture system merging real-time IoT sensing with Machine Learning. It features a unique fail-safe against sensor errors to ensure reliable, accurate crop recommendations for farmers.',
-    ss: '/Me/Introcuction.png',
+    ss: '/Me/Methodology.png',
     tech: ['IoT Sensors', 'Machine Learning', 'Google Collab', 'Python', 'Firebase', 'OpenWeatherMap API'],
     code: '--'
   },
