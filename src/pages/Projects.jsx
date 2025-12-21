@@ -7,7 +7,7 @@ const PROJECTS = [
   {
     title: '🩺 Hospital Management System',
     desc: 'A comprehensive, role-based healthcare management system built with PHP and MySQL that streamlines medical operations and improves patient care through specialized dashboards for patients, doctors, and administrators.',
-    ss: '/Public/Me/HMS.jpg',
+    ss: '/public/Me/HMS.jpg',
     tech: ['HTML', 'CSS', 'PHP', 'JavaScript', 'MySQL'],
     code: 'https://github.com/mohtasim2003/Hospital-Management-System'
   },
