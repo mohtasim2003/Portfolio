@@ -29,19 +29,19 @@ const IMAGES = {
       id: 1,
       caption:
         "Cisco IT Essential Certificate!",
-      photos: ["/public/Me/Cisco_Certificate.jpg", ],
+      photos: ["/Me/Cisco_Certificate.jpg", ],
     },
   ],
   achievements: [
     {
       id: 1,
       caption: " 🏆Seasonal Competition-2018!",
-      photos: ["/public/Me/Competition.jpg" ],
+      photos: ["/Me/Competition.jpg" ],
     },
     {
       id: 2,
       caption: " 🤖Kishor Kishori Conference-2018",
-      photos: ["./public/Me/Conference.jpg"],
+      photos: ["/Me/Conference.jpg"],
     },
   ],
 };
