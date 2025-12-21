@@ -28,20 +28,20 @@ const IMAGES = {
     {
       id: 1,
       caption:
-        "📂ProfileX - ",
-      photos: ["#", "#","#", "#"],
+        "Cisco IT Essential Certificate!",
+      photos: ["/public/Me/Cisco_Certificate.jpg", ],
     },
   ],
   achievements: [
     {
       id: 1,
-      caption: " 🏆!",
-      photos: ["#"],
+      caption: " 🏆Seasonal Competition-2018!",
+      photos: ["/public/Me/Competition.jpg" ],
     },
     {
       id: 2,
-      caption: " 🤖",
-      photos: ["#"],
+      caption: " 🤖Kishor Kishori Conference-2018",
+      photos: ["/public/Me/Conference.jpg"],
     },
   ],
 };
