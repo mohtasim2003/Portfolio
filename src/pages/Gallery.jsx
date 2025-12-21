@@ -21,7 +21,7 @@ const IMAGES = {
     {
       id: 1,
       caption:
-        "It’s an AI-powered tool that understands what someone might be feeling based on their words.",
+        "",
       photos: ["#", "#"],
     },
     
