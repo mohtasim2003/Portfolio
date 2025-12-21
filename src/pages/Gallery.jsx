@@ -11,6 +11,11 @@ const IMAGES = {
       photos: ["/Me/Ratargul.png", "/Me/Back.jpg", ],
     },
     {
+      id: 1,
+      caption: "A serene moment by the lakeside at sunset.",
+      photos: ["/Me/Eid.jpg"],
+    },
+    {
       id: 2,
       caption:
         "Unspoken understanding between captured in a single frame ❤️",
