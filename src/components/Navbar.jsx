@@ -7,8 +7,6 @@ const links = [
   { label: "Projects", to: "/projects" },
   { label: "Gallery", to: "/gallery" },
   { label: "Skills", to: "/skills" },
-  //{ label: "Certificates", to: "/certificates" },
-  //{ label: "Blog", to: "/blog" },
   { label: "Resume", to: "/resume" },
   { label: "About Me", to: "/about" },
   { label: "Contact", to: "/contact" },
