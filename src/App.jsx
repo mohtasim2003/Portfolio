@@ -12,6 +12,7 @@ import Contact from './pages/Contact'
 import NotFound from './pages/NotFound'
 import SkillNetwork from './pages/Skills'  
 
+
 export default function App() {
   return (
     <div className="app">
