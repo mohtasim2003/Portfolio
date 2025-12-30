@@ -107,7 +107,7 @@ export default function Home() {
           <motion.div className="info-cards">
             {[
               { label: '📍 Location', value: 'Uttara, Dhaka, Bangladesh' },
-              { label: '💼 Expertise', value: 'Problem Solving, AI/ML' },
+              { label: '💼 Expertise', value: 'Problem Solving, IoT, AI/ML' },
               { label: '📧 Contact', value: 'mohtasimur2003@gmail.com' },
             ].map((info, i) => (
               <motion.div key={i} whileHover={{ y: -4, scale: 1.05 }} transition={{ type: 'spring', stiffness: 250 }} className="info-card">
