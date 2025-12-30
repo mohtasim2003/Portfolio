@@ -16,9 +16,9 @@ import facebookLogo from '../../public/facebook.png'
 export default function Home() {
   const professions = [
     'Software Engineer',
-    'Machine Learning Engineer',
-    'Iot Researcher',
     'Full Stack Developer',
+    'Iot Researcher',
+    'Machine Learning Engineer',
     '.NET core Developer',
   ]
 
@@ -107,7 +107,7 @@ export default function Home() {
           <motion.div className="info-cards">
             {[
               { label: '📍 Location', value: 'Uttara, Dhaka, Bangladesh' },
-              { label: '💼 Expertise', value: 'Problem Solving, IoT, AI/ML' },
+              { label: '💼 Expertise', value: 'Problem Solving, IoT' },
               { label: '📧 Contact', value: 'mohtasimur2003@gmail.com' },
             ].map((info, i) => (
               <motion.div key={i} whileHover={{ y: -4, scale: 1.05 }} transition={{ type: 'spring', stiffness: 250 }} className="info-card">
