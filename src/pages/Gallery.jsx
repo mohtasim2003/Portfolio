@@ -8,7 +8,7 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest!",
-      photos: ["/Me/Ratargul.png", "/Me/Back.jpg","Me/Boat.jpg" ],
+      photos: ["/Me/Ratargul.png", "/Me/Back.jpg", ],
     },
     {
       id: 3,
@@ -24,7 +24,7 @@ const IMAGES = {
     {
       id: 4,
       caption: "Cherishing the simple joys of life.",
-      photos: ["/Me/Crush.jpg" ],
+      photos: ["/Me/Boat.jpg" ],
     }
   ],
   projects: [
