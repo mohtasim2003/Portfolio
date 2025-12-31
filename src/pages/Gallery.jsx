@@ -21,6 +21,11 @@ const IMAGES = {
         "Unspoken understanding between captured in a single frame ❤️",
       photos: ["/Me/Bro.HEIC" ],
     },
+    {
+      id: 4,
+      caption: "Cherishing the simple joys of life.",
+      photos: ["/Me/Crush.jpg" ],
+    }
   ],
   projects: [
     {
