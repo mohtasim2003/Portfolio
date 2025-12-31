@@ -8,7 +8,7 @@ const IMAGES = {
     {
       id: 1,
       caption: "Lost in the beauty of the misty forest!",
-      photos: ["/Me/Ratargul.png", "/Me/Back.jpg", ],
+      photos: ["/Me/Ratargul.png", "/Me/Back.jpg","Me/Boat.jpg" ],
     },
     {
       id: 3,
