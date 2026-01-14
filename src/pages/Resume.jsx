@@ -200,7 +200,7 @@ export default function Resume() {
         >
           {[
             { name: "💻 GitHub", link: "https://github.com/mohtasim2003" },
-            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/mohtasim-ur-rahman-6a1b41299/" },
+            { name: "💼 LinkedIn", link: "https://www.linkedin.com/in/smrahman404/" },
           ].map((site) => (
             <motion.a
               key={site.name}
