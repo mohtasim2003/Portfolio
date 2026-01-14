@@ -69,7 +69,7 @@ export default function Contact() {
 
   const quickLinks = [
     { img: githubLogo, title: "GitHub", link: "https://github.com/mohtasim2003" },
-    { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/mohtasim-ur-rahman-6a1b41299/" },
+    { img: linkedinLogo, title: "LinkedIn", link: "https://www.linkedin.com/in/smrahman404/" },
     { img: gmailLogo, title: "Email", link: "mailto:mohtasimur2003@gmail.com" },
     { img: whatsappLogo, title: "WhatsApp", link: "https://wa.me/+8801783753182" },
     { img: instagramLogo, title: "Instagram", link: "https://www.instagram.com/sm.rahman404/" },
