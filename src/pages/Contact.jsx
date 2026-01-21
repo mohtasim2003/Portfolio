@@ -50,6 +50,7 @@ export default function Contact() {
         {
           from_name: form.name,
           contact_info: form.contact,
+          user_email: isEmail ? form.contact : "",
           subject: form.subject,
           message: form.message,
         },
