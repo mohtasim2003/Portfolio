@@ -31,8 +31,8 @@ const IMAGES = {
     {
       id: 1,
       caption:
-        "",
-      photos: ["#", "#"],
+        "Inventory Management System (API)",
+      photos: ["/Me/API_01.jpeg", "/Me/API_02.jpeg" ],
     },
     
     
