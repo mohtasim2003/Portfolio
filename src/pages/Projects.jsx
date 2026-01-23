@@ -16,7 +16,7 @@ const PROJECTS = [
     desc: 'Built a full-stack airline booking management system using Next.js and NestJS with secure role-based authentication. The Employee module enables managing bookings, passengers, payments, and check-ins through protected REST APIs.',
     ss: '/Me/Ad Web.jfif',
     tech: ['Next.js (React)', 'NestJS','TypeScript','Axios', 'TypeORM', 'PostgreSQL',],
-    code: 'https://github.com/mohtasim2003/Adv.-Web-FrontEnd','https://github.com/mohtasim2003/Adv.-Web-BackEnd'
+    code: 'https://github.com/mohtasim2003/Adv.-Web-FrontEnd',
   },
   {
     title: '🩺 Hospital Management System',
