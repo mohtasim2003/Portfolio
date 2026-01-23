@@ -5,6 +5,13 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
+    title: 'Inventory Management System',
+    desc: 'Developed an Inventory Management System using ASP.NET Core Web API with a clear N-Tier architecture. The project uses Entity Framework Core, repository and service patterns, and DTO-based data handling. It includes full CRUD operations along with advanced features such as low-stock tracking, transaction reporting, and an in-app notification system. Swagger is used for API documentation and testing.',
+    ss: '/Me/API_02.jpeg',
+    tech: ['ASP.NET Core', 'EF','N-Tier Architecture', 'SQL Server',],
+    code: 'https://github.com/mohtasim2003/Inventory-Management-System-API'
+  },
+  {
     title: '🩺 Hospital Management System',
     desc: 'A comprehensive, role-based healthcare management system built with PHP and MySQL that streamlines medical operations and improves patient care through specialized dashboards for patients, doctors, and administrators.',
     ss: '/Me/HMS.jpg',
