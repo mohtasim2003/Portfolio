@@ -7,7 +7,7 @@ const PROJECTS = [
   {
     title: 'Inventory Management System (API)',
     desc: 'Developed an Inventory Management System using ASP.NET Core Web API following N-Tier architecture. Implemented EF Core, repository pattern, and in-app notifications with advanced features beyond CRUD.',
-    ss: '/Me/API_02.jpeg',
+    ss: '/Me/Api.png',
     tech: ['ASP.NET Core', 'EF','N-Tier Architecture','AutoMapper', 'SQL Server',],
     code: 'https://github.com/mohtasim2003/Inventory-Management-System-API'
   },
