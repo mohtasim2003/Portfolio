@@ -5,11 +5,18 @@ import { Github, ExternalLink } from 'lucide-react'
 
 const PROJECTS = [
   {
-    title: 'Inventory Management System',
+    title: 'Inventory Management System (API)',
     desc: 'Developed an Inventory Management System using ASP.NET Core Web API following N-Tier architecture. Implemented EF Core, repository pattern, and in-app notifications with advanced features beyond CRUD.',
     ss: '/Me/API_02.jpeg',
     tech: ['ASP.NET Core', 'EF','N-Tier Architecture','AutoMapper', 'SQL Server',],
     code: 'https://github.com/mohtasim2003/Inventory-Management-System-API'
+  },
+   {
+    title: 'SkyPhoenix Flight Booking System',
+    desc: 'Built a full-stack airline booking management system using Next.js and NestJS with secure role-based authentication. The Employee module enables managing bookings, passengers, payments, and check-ins through protected REST APIs.',
+    ss: '/Me/Ad Web.jfif',
+    tech: ['Next.js (React)', 'NestJS','TypeScript','Axios', 'TypeORM', 'PostgreSQL',],
+    code: 'https://github.com/mohtasim2003/Adv.-Web-FrontEnd','https://github.com/mohtasim2003/Adv.-Web-BackEnd'
   },
   {
     title: '🩺 Hospital Management System',
