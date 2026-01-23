@@ -35,12 +35,7 @@ const IMAGES = {
       photos: ["#", "#"],
     },
     
-    {
-      id: 1,
-      caption:
-        "Cisco IT Essential Certificate!",
-      photos: ["/Me/Cisco_Certificate.jpg", ],
-    },
+    
   ],
   achievements: [
     {
@@ -52,6 +47,12 @@ const IMAGES = {
       id: 2,
       caption: " 🤖Kishor Kishori Conference-2018",
       photos: ["/Me/Conference.jpg"],
+    },
+    {
+      id: 1,
+      caption:
+        "Cisco IT Essential Certificate!",
+      photos: ["/Me/Cisco_Certificate.jpg", ],
     },
   ],
 };
