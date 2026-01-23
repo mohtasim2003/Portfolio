@@ -137,7 +137,7 @@ export default function Contact() {
         className="contact-form"
       >
         <input type="text" name="name" placeholder="Your Name" value={form.name} onChange={handleChange} required />
-        <input type="text" name="contact" placeholder="Your Email or Phone" value={form.contact} onChange={handleChange} required />
+        <input type="text" name="contact" placeholder="Your Email" value={form.contact} onChange={handleChange} required />
         <input type="text" name="subject" placeholder="Subject" value={form.subject} onChange={handleChange} required />
         <textarea name="message" placeholder="Your Message..." value={form.message} onChange={handleChange} rows="5" required />
         <motion.button type="submit" className="contact-btn" whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
