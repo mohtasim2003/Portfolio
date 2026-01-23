@@ -6,9 +6,9 @@ import { Github, ExternalLink } from 'lucide-react'
 const PROJECTS = [
   {
     title: 'Inventory Management System',
-    desc: 'Developed an Inventory Management System using ASP.NET Core Web API with a clear N-Tier architecture. The project uses Entity Framework Core, repository and service patterns, and DTO-based data handling. It includes full CRUD operations along with advanced features such as low-stock tracking, transaction reporting, and an in-app notification system. Swagger is used for API documentation and testing.',
+    desc: 'Developed an Inventory Management System using ASP.NET Core Web API following N-Tier architecture. Implemented EF Core, repository pattern, and in-app notifications with advanced features beyond CRUD.',
     ss: '/Me/API_02.jpeg',
-    tech: ['ASP.NET Core', 'EF','N-Tier Architecture', 'SQL Server',],
+    tech: ['ASP.NET Core', 'EF','N-Tier Architecture','AutoMapper', 'SQL Server',],
     code: 'https://github.com/mohtasim2003/Inventory-Management-System-API'
   },
   {
