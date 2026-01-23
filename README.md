@@ -56,7 +56,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
 * 📧 **Email:** [mohtasimur2003@gmail.com](mailto:mohtasimur2003@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/mohtasim-ur-rahman-6a1b41299](https://www.linkedin.com/in/mohtasim-ur-rahman-6a1b41299/)
+* 💼 **LinkedIn:** [linkedin.com/in/smrahman404/](https://www.linkedin.com/in/smrahman404/)
 
 ---
 
