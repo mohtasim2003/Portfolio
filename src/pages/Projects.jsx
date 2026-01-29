@@ -42,7 +42,7 @@ const PROJECTS = [
   {
   title: 'Arduino-Based Autonomous Floor Cleaning Robot',
   desc: 'Designed a cost-effective, autonomous cleaning robot using Arduino. It employs ultrasonic sensors for real-time obstacle avoidance and motorized brushes to clean tiles, wood, and carpet efficiently.',
-  ss: '/Me/cleaner.jpg',
+  ss: '/Me/Robot_01.jpeg',
   tech: ['Arduino Uno', 'Ultrasonic Sensors', 'C++', 'L298N Motor Driver', 'DC Motors', 'Servo Motor'],
   code: '--'
   },

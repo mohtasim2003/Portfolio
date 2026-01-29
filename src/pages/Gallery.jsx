@@ -34,7 +34,12 @@ const IMAGES = {
         "Inventory Management System (API)",
       photos: ["/Me/API_01.jpeg", "/Me/API_02.jpeg" ],
     },
-    
+    {
+      id: 2,
+      caption:
+        "Arduino-Based Autonomous Floor Cleaning Robot",
+      photos: ["/Me/Robot_01.jpeg", "/Me/Robot_02.jpeg","/Me/Robot_03.jpeg","/Me/Robot_04.jpeg" ],
+    },
     
   ],
   achievements: [
