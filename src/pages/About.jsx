@@ -73,7 +73,7 @@ const AboutMe = () => {
         </p>
 
         <p>
-            4th-year Computer Science and Engineering student at American International University-Bangladesh 
+            Computer Science and Engineering graduate from American International University-Bangladesh 
             (AIUB) with hands-on experience in software engineering & ML+Iot Projects. Proficient in .Net core, 
             java, Web technologies and data preprocessing. Seeking internship opportunities to apply skills and 
             contribute to impactful software solutions.
@@ -145,9 +145,9 @@ const AboutMe = () => {
                   Bangladesh
                 </p>
                 <p style={{ color: "rgba(255,255,255,0.7)" }}>
-                  4th Year (Pursuing) 
+                  AIUB
                 </p>
-                <p style={{ color: "rgba(255,255,255,0.7)" }}>2022 – 2026</p>
+                <p style={{ color: "rgba(255,255,255,0.7)" }}>Completed in 2026</p>
               </div>
             </motion.div>
 
