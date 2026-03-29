@@ -56,7 +56,7 @@ export default function Resume() {
               👨‍💻 MOHTASIM UR RAHMAN
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              4th Year Computer Science and Engineering student | <br></br>American International University-Bangladesh
+              Computer Science and Engineering graduate <br></br>American International University-Bangladesh
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               📍 Uttara, Dhaka, Bangladesh
@@ -80,11 +80,10 @@ export default function Resume() {
           >
             <strong style={{ color: "#00b4ff" }}>Professional Summary:</strong>
             <p style={{ marginTop: 6, color: "#ccc" }}>
-              A highly motivated and detail-oriented Computer Science 4th-year student 
-              seeking a Software Engineer position. Skilled in programming, problem-solving 
-              and developing scalable software systems. Committed to continuous learning, 
-              engineering reliable solutions and contributing to impactful, innovation-driven 
-              projects.
+              Computer Science and Engineering graduate skilled in full-stack web development, Machine 
+              Learning, and IoT technologies. Strong problem-solving ability and practical experience 
+              gained through multiple hands-on projects. Seeking a software engineering role to apply 
+              my technical skills and contribute to innovative solutions in a dynamic team environment.
             </p>
           </motion.div>
         </motion.div>

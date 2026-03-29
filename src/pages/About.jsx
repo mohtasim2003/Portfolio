@@ -75,7 +75,7 @@ const AboutMe = () => {
         <p>
             Computer Science and Engineering graduate from American International University-Bangladesh 
             (AIUB) with hands-on experience in software engineering & ML+Iot Projects. Proficient in .Net core, 
-            java, Web technologies and data preprocessing. Seeking internship opportunities to apply skills and 
+            java, Web technologies and data preprocessing. Seeking opportunities to apply skills and 
             contribute to impactful software solutions.
         </p>
 
