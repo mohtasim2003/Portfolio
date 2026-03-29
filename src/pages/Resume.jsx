@@ -56,7 +56,7 @@ export default function Resume() {
               👨‍💻 MOHTASIM UR RAHMAN
             </h3>
             <p style={{ margintop: 10, fontSize: 15, color: "#ccc" }}>
-              Computer Science and Engineering graduate <br></br>American International University-Bangladesh
+              Software Engineer <br></br>American International University-Bangladesh
             </p>
             <p style={{ margin: "4px 0", fontSize: 14, color: "#aaa" }}>
               📍 Uttara, Dhaka, Bangladesh
