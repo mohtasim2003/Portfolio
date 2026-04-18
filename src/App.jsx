@@ -11,11 +11,20 @@ import About from './pages/About'
 import Contact from './pages/Contact'
 import NotFound from './pages/NotFound'
 import SkillNetwork from './pages/Skills'  
+import { Routes, Route } from "react-router-dom";
+import { Helmet } from "react-helmet";
+
 
 
 export default function App() {
   return (
     <div className="app">
+      {/* ✅ Favicon + Head setup */}
+      <Helmet>
+        <title>SM Rahman Portfolio</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Helmet>
+
       <Navbar />
       <main style={{ flex: 1 }}>
         <Routes>
