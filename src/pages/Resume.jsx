@@ -88,6 +88,108 @@ export default function Resume() {
           </motion.div>
         </motion.div>
 
+        {/* Work Experience */}
+<motion.div
+  initial={{ opacity: 0, y: 20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ delay: 0.55 }}
+  style={{
+    marginTop: 40,
+    border: "1px solid rgba(255,255,255,0.1)",
+    borderRadius: 12,
+    padding: "20px 24px",
+    background: "rgba(255,255,255,0.03)",
+  }}
+>
+  <h4 style={{ fontSize: 20, color: "#00b4ff", marginBottom: 18 }}>
+    💼 Work Experience
+  </h4>
+
+  {/* GoBangla Solutions */}
+  <div style={{ marginBottom: 24 }}>
+    <h5
+      style={{
+        margin: 0,
+        fontSize: 18,
+        color: "#fff",
+        fontWeight: 600,
+      }}
+    >
+      GoBangla Solutions
+    </h5>
+
+    <p
+      style={{
+        margin: "6px 0 12px",
+        color: "#00b4ff",
+        fontSize: 14,
+        fontWeight: 500,
+      }}
+    >
+      Software Engineer | March 2026 – Present
+    </p>
+
+    <p
+      style={{
+        margin: 0,
+        color: "#ccc",
+        lineHeight: 1.7,
+      }}
+    >
+      Responsible for developing and maintaining web applications using
+      modern frameworks. Contributing to both frontend and backend
+      development, feature implementation, debugging, and system
+      optimization to deliver scalable and efficient software solutions.
+    </p>
+  </div>
+
+  <div
+    style={{
+      height: 1,
+      background: "rgba(255,255,255,0.08)",
+      margin: "20px 0",
+    }}
+  />
+
+  {/* Itransition Group */}
+  <div>
+    <h5
+      style={{
+        margin: 0,
+        fontSize: 18,
+        color: "#fff",
+        fontWeight: 600,
+      }}
+    >
+      Itransition Group
+    </h5>
+
+    <p
+      style={{
+        margin: "6px 0 12px",
+        color: "#00b4ff",
+        fontSize: 14,
+        fontWeight: 500,
+      }}
+    >
+      Intern Developer | January 2026 – March 2026
+    </p>
+
+    <p
+      style={{
+        margin: 0,
+        color: "#ccc",
+        lineHeight: 1.7,
+      }}
+    >
+      Completed a .NET-focused development internship, gaining hands-on
+      experience with ASP.NET technologies, backend development,
+      debugging, and collaborative software development practices under
+      professional mentorship.
+    </p>
+  </div>
+</motion.div>
+
         {/* Education Section with Border Box */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
