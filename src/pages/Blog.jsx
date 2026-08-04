@@ -7,23 +7,23 @@ export default function Blog() {
   const defaultPosts = [
     {
       id: 1,
-      title: "",
-      text: "",
+      title: "My Journey from CSE Student to Software Engineer",
+      text: "Becoming a software engineer was not a single-step achievement. It was a journey built through continuous learning, academic projects, internships, professional experience, and countless hours of practice. Becoming a software engineer was not a single-step achievement. It was a journey built through continuous learning, academic projects, internships, professional experience, and countless hours of practice.",
     },
     {
       id: 2,
-      title: "",
-      text: "",
+      title: "Important Lessons I Learned as a Software Engineer",
+      text: "Working as a software engineer has taught me that readable code is better than unnecessarily complex code. Clear naming, reusable components, and organized files make applications easier to maintain. I also learned that debugging requires patience and a step-by-step approach. Git and GitHub are essential for tracking changes and collaborating with team members. Understanding project requirements before coding helps reduce mistakes and unnecessary work. Testing is also important before deploying any application. Most importantly, software engineers must continue learning because technologies are always changing.",
     },
     {
       id: 3,
-      title: "",
-      text: "",
+      title: "Artificial Intelligence Is Changing Software Development",
+      text: "Artificial intelligence is changing how developers build and improve software. AI-powered tools can help with coding, debugging, testing, and documentation. AI also allows applications to provide recommendations, analyze data, automate tasks, and understand user input. Building an effective AI system requires proper data preparation, model selection, testing, and evaluation. Developers must also consider privacy, bias, security, and reliability. AI tools are not replacing developers, but they are helping developers work more efficiently. I want to explore how AI can be combined with full-stack development to create smarter applications.",
     },
     {
       id: 4,
-      title: "",
-      text: "",
+      title: "The Future of Web Development",
+      text: "The future of web development is exciting and full of possibilities. With the rapid advancement of technologies, developers are constantly looking for ways to create more engaging and efficient web applications. Trends like progressive web apps, serverless architecture, and headless CMS are reshaping the way we build and deploy web solutions. Staying updated with these trends is crucial for any web developer looking to remain competitive in the industry.",
     },
   ];
 
