@@ -8,7 +8,7 @@ export default function Blog() {
     {
       id: 1,
       title: "My Journey from CSE Student to Software Engineer",
-      text: "Becoming a software engineer was not a single-step achievement. It was a journey built through continuous learning, academic projects, internships, professional experience, and countless hours of practice. My journey into software engineering began while studying Computer Science and Engineering at AIUB. During university, I learned programming languages such as C++, Java, C#, Python, JavaScript, and TypeScript. I also worked on projects involving databases, machine learning, robotics, and web development. These projects helped me turn theoretical knowledge into practical skills. Later, professional experience introduced me to React, Next.js, NestJS, PostgreSQL, ASP.NET MVC, and SQL Server. I learned that communication, teamwork, debugging, and planning are just as important as coding. My goal is to keep improving and build software that solves real-world problems.",
+      text: "Becoming a software engineer was not a single-step achievement. It was a journey built through continuous learning, academic projects, internships, professional experience, and countless hours of practice. My journey into software engineering began while studying Computer Science and Engineering at AIUB. During university, I also worked on projects involving databases, machine learning, robotics, and web development. These projects helped me turn theoretical knowledge into practical skills. Later, professional experience introduced me to React, Next.js, NestJS, PostgreSQL, ASP.NET MVC, and SQL Server. I learned that communication, teamwork, debugging, and planning are just as important as coding. My goal is to keep improving and build software that solves real-world problems.",
     },
     {
       id: 2,
@@ -22,8 +22,8 @@ export default function Blog() {
     },
     {
       id: 4,
-      title: "The Future of Web Development",
-      text: "The future of web development is exciting and full of possibilities. With the rapid advancement of technologies, developers are constantly looking for ways to create more engaging and efficient web applications. Trends like progressive web apps, serverless architecture, and headless CMS are reshaping the way we build and deploy web solutions. Staying updated with these trends is crucial for any web developer looking to remain competitive in the industry.",
+      title: "What I Learned from Building Real-World Projects",
+      text: "Building real-world projects has helped me understand software development beyond classroom theory. I learned how to convert business requirements into practical features and working solutions. Projects also taught me the importance of clean code, responsive design, database planning, and proper testing. I faced challenges involving deployment, API integration, authentication, and performance. Solving these problems improved my debugging and problem-solving skills. I also learned that communication and teamwork are essential for completing a project successfully. Every project gives me new experience and motivates me to become a better software engineer.",
     },
   ];
 
