@@ -25,6 +25,16 @@ export default function Blog() {
       title: "What I Learned from Building Real-World Projects",
       text: "Building real-world projects has helped me understand software development beyond classroom theory. I learned how to convert business requirements into practical features and working solutions. Projects also taught me the importance of clean code, responsive design, database planning, and proper testing. I faced challenges involving deployment, API integration, authentication, and performance. Solving these problems improved my debugging and problem-solving skills. I also learned that communication and teamwork are essential for completing a project successfully. Every project gives me new experience and motivates me to become a better software engineer.",
     },
+    {
+      id: 5,
+      title: "The Importance of Continuous Learning in Technology",
+      text: "Software engineering is a field that is constantly evolving. New programming languages, frameworks, tools, and best practices are introduced regularly. To stay relevant, software engineers must continuously learn and adapt. I have learned to embrace online courses, tutorials, documentation, and community forums to improve my skills. I also follow industry news and trends to understand where the field is heading. Continuous learning helps me write better code, build more efficient applications, and solve problems more effectively. It also allows me to explore new areas like AI, cloud computing, and cybersecurity.",
+    },
+    {
+      id: 6,
+      title: "My Approach to Solving Programming Problems",
+      text: "Problem-solving is one of the most important skills I have developed as a software engineer. When I face a problem, I first try to understand the requirements and identify the root cause. I then break the problem into smaller and more manageable parts. After that, I explore possible solutions and choose the one that is most efficient and maintainable. Testing each step helps me find errors and improve the final solution. I believe that patience, logical thinking, and consistent practice are key to becoming a better programmer. Every difficult problem is an opportunity to learn something new.",
+    },
   ];
 
   const [posts, setPosts] = useState([]);
