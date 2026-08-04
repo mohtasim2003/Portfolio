@@ -8,7 +8,7 @@ export default function Blog() {
     {
       id: 1,
       title: "My Journey from CSE Student to Software Engineer",
-      text: "Becoming a software engineer was not a single-step achievement. It was a journey built through continuous learning, academic projects, internships, professional experience, and countless hours of practice. Becoming a software engineer was not a single-step achievement. It was a journey built through continuous learning, academic projects, internships, professional experience, and countless hours of practice.",
+      text: "Becoming a software engineer was not a single-step achievement. It was a journey built through continuous learning, academic projects, internships, professional experience, and countless hours of practice. My journey into software engineering began while studying Computer Science and Engineering at AIUB. During university, I learned programming languages such as C++, Java, C#, Python, JavaScript, and TypeScript. I also worked on projects involving databases, machine learning, robotics, and web development. These projects helped me turn theoretical knowledge into practical skills. Later, professional experience introduced me to React, Next.js, NestJS, PostgreSQL, ASP.NET MVC, and SQL Server. I learned that communication, teamwork, debugging, and planning are just as important as coding. My goal is to keep improving and build software that solves real-world problems.",
     },
     {
       id: 2,
